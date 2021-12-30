@@ -15,8 +15,6 @@ class MapViewController: UIViewController{
 
     let locationManager = LocationManager()
     let networkManager = NetworkManager()
-
-    //var currentLocation: CLLocation?
     
     override func viewDidLoad() {
         super.viewDidLoad()
